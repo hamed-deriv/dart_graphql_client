@@ -1,0 +1,12 @@
+name: dart_graphql_client
+description: A sample command-line application.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0
